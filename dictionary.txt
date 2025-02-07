@@ -1,0 +1,32 @@
+Swallow-udmaq,qaranquş  
+Result-netice  
+Conclusion-netice  
+Consequence-netice  
+Outcome-netice  
+Tidy-seliqeye salmaq  
+Tiny-balaca  
+Rebuke-mezemmet  
+Slippery-sürüşkenlik  
+Mind-ağıl, fikir, etiraz etmək  
+Crowded-izdihamlı  
+Mock-istehza etmək  
+Digest-hezm etmək  
+Nutrition-qidalandırıcı maddeler  
+Prescription-resept  
+Ignore-mehel qoymamaq  
+Neglect-mehel qoymamaq  
+Duty-vezife,borc  
+Fulfill-yerine yetirmek  
+perform-yerine yetirmek  
+carry out-yerine yetirmek  
+implement-yerine yetirmek  
+To be accustomed to-öyresmek  
+To be used to - öyresmek  
+Far-uzaq  
+Distant-uzaq  
+Remote-uzaq  
+Resource-servet  
+Source-menbe  
+Avoid-uzaq durmaq  
+Prevent-qarşısın almaq  
+Halt-dayandırmaq
