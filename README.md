@@ -1,4 +1,4 @@
-# English to Azerbaijani Translation Game
+# English to Azerbaijani Translation
 
 ## Overview
 This is a simple console-based English-to-Azerbaijani translation game written in C#. The program loads a dictionary from a text file and randomly selects an English word for the user to translate. The user inputs their answer, and the program checks if the translation is correct.
